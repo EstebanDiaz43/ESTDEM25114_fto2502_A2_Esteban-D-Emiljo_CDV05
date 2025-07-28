@@ -3,6 +3,7 @@
 Welcome to my (Esteban D'Emiljo's) personal portfolio website built using HTML, CSS, JavaScript, and Bootstrap. This site serves as a showcase of my skills, background, and featured projects as an aspiring Software Developer.
 
 ## 🏠 Hero Section
+
 Purpose:
 Introduces who I am at a glance. Includes my name, role highlights (Designer, Developer, Programmer), and a background image to create a professional, impactful first impression.
 
@@ -15,6 +16,7 @@ Eye-catching background image
 Smooth entrance animation using AOS
 
 ## 👤 About Section
+
 Purpose:
 Gives a personal overview of my journey, goals, and current skill development.
 
@@ -29,6 +31,7 @@ Basic details like age, birthday, location, and contact availability
 Education status and email address
 
 ## 💻 Skills Section
+
 Purpose:
 Visually demonstrates my proficiency in various programming technologies.
 
@@ -51,6 +54,7 @@ Split two-column layout
 Highlighted skill levels with clear indicators
 
 ## 📄 Resume Section
+
 Purpose:
 Outlines my educational background and current development training.
 
@@ -65,10 +69,12 @@ Education
 ### 🎓 Langenhoven High School – National Senior Certificate (2020 – 2024)
 
 ## 🧩 Projects Section (Portfolio)
+
 Purpose:
 Highlights projects I’ve worked on to demonstrate real-world application of my skills.
 
 ### 🔧 Project 1 – Kanban Board App
+
 Type: JavaScript Web App
 
 Features: Modular design, API integration, full CRUD, theme switching, persistent state
@@ -78,6 +84,7 @@ Live Preview: Image with lightbox
 GitHub Link: Kanban Project Repo
 
 ### 🎙️ Project 2 – Podcast Preview Web Component
+
 Type: Custom Web Component
 
 Features: Encapsulated, reusable component using customElements.define()
@@ -87,6 +94,7 @@ Live Preview: Image with lightbox
 GitHub Link: Podcast Preview Repo
 
 ## 📬 Contact Section
+
 Purpose:
 Encourages collaboration and makes it easy for visitors to connect with me.
 
@@ -99,6 +107,7 @@ Email: esteban-demiljo@gmail.com
 LinkedIn: Esteban D'Emiljo
 
 ## 📦 Technologies & Tools Used
+
 HTML5 & CSS3
 
 JavaScript
@@ -114,4 +123,5 @@ Google Fonts (Roboto, Poppins, Raleway)
 Responsive Design
 
 ## ✅ Status
+
 🎯 The website is functional and responsive across devices. Updates will be made as more projects and experiences are added.
